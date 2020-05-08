@@ -1,0 +1,9 @@
+
+[
+    {
+      "name": "default",
+      "type": "sqlite",
+      "database": "data/database.db",
+      "entities": "src/**/*.entity.ts"
+    }
+  ]
